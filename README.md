@@ -25,6 +25,8 @@ A proposta do projeto é desenvolver um Chatbot para WhatsApp que retorna aos pa
 
 ## Resultado 
 ### Chatbot 
+[Vídeo da demonstração do Chatbot](https://www.youtube.com/watch?v=q_4sdqCpCts)<br>
+<br>
 ![](attachments/Chatbot_Images.png)
 ![](attachments/Chatbot.gif)
 
