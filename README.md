@@ -29,7 +29,7 @@ A proposta do projeto é desenvolver um Chatbot para WhatsApp que retorna aos pa
 ![](attachments/Chatbot.gif)
 
 ### Dashboard
-![](attachments/Dashboard_Img.png)
+![](attachments/dash_gif.gif)
 
 ---
 
